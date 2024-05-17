@@ -8,7 +8,7 @@
     "dev": "vue-cli-service serve"
   },
   "dependencies": {
-    "@logicflow/core": "^0.7.2",
+    "@logicflow/core": "^0.7.16",
     "@logicflow/extension": "^0.7.2",
     "core-js": "^3.6.5",
     "element-ui": "^2.15.5",
